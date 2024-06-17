@@ -1,5 +1,5 @@
 {
-  "name": "react-bootstrap-web3-spa",
+  "name": "encrypted-nostr-msgs",
   "version": "2.0.1",
   "dependencies": {
     "axios": "0.27.2",
