@@ -1,6 +1,6 @@
-# rencrypted-nostr-msgs
+# encrypted-nostr-msgs
 
-*A mobile-first web app for sending e2e encrypted messages between disposable Nostr accounts. *
+*A mobile-first web app for sending e2e encrypted messages between disposable Nostr accounts.*
 
 This app was inspired by [SendStr](https://github.com/vilm3r/sendstr-web) and seeks to replicate its UI and functionality. Rather than fork that repository, this codebase started as a fork of [react-bootstrap-web-spa](https://github.com/Permissionless-Software-Foundation/react-bootstrap-web3-spa), and much of the functional code was ported from SendStr.
 
